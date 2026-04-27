@@ -1,11 +1,18 @@
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center" style="color: #ffffff;">Hola 👋, Soy John Alejandro Nivia Hernandedz</h1>
+<h1 align="center" style="color: #ffffff;"</h1>
+ <h1>>Hola 👋, Soy John Alejandro Nivia Hernandedz</h1>
 <p>Soy estudiante de Analisis y Desarrollo de software  SENA </p>
 <h1 align="center" style="color: #ffffff;"></h1>
-<h2 aling ="Center">Datos de contacto</h2>
-<p>Telefono: +57 322 846 7684</p>
-<p>Gmail: johnnivia603@gmail.com</p>
+
+
+---
+
+<h2 align="center">📬 Contacto</h2>
+<p align="center">
+📱 +57 322 846 7684 <br>
+📧 johnnivia603@gmail.com
+</p>
 
 
 <!-- Profile Views Section -->
