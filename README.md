@@ -3,7 +3,6 @@
 <h1 align="center" style="color: #ffffff;"</h1>
 <h1>Hola 👋, Soy John Alejandro Nivia Hernandedz</h1>
 <p>Soy estudiante de Analisis y Desarrollo de software  SENA </p>
-<h1 align="center" style="color: #ffffff;"></h1>
 
 
 ---
