@@ -4,6 +4,9 @@
 <p>Soy estudiante de Analisis y Desarrollo de software  SENA </p>
 <h1 align="center" style="color: #ffffff;"></h1>
 <h2 aling ="Center">Datos de contacto</h2>
+<p>Telefono: +57 322 846 7684</p>
+<p>Gmail: johnnivia603@gmail.com</p>
+
 
 <!-- Profile Views Section -->
 
